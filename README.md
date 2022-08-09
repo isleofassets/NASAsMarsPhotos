@@ -9,3 +9,5 @@ Also in the new update, the ability to set the date when the photos were taken h
 
 Supported platforms: Android/IOS/PC
 Documentation: Included
+
+![Screenshot](cover-img.jpg)

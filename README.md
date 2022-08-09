@@ -9,11 +9,7 @@ Also in the new update, the ability to set the date when the photos were taken h
 
 Supported platforms: Android/IOS/PC
 
-![Screenshot](cover-img.jpg)
-
-# Videos
-[![Alt text for your video](screenshot-img-a.jpg)](https://youtu.be/y6Flck_lbuU)
-[![Alt text for your video](screenshot-img-a.jpg)](https://youtu.be/ccT2sMHzWnM)
+[![YouTube Video](cover-img.jpg)](https://youtu.be/y6Flck_lbuU)
 
 # Screenshots
 ![Screenshot](screenshot-img-a.jpg)

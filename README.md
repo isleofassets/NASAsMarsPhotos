@@ -10,3 +10,9 @@ Also in the new update, the ability to set the date when the photos were taken h
 Supported platforms: Android/IOS/PC
 
 ![Screenshot](cover-img.jpg)
+
+# Screenshots
+![Screenshot](screenshot-img-a.jpg)
+![Screenshot](screenshot-img-b.jpg)
+![Screenshot](screenshot-img-c.jpg)
+![Screenshot](screenshot-img-d.jpg)

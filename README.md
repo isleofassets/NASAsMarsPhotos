@@ -1,4 +1,4 @@
-# NASAsMarsPhotos
+# NASA's Mars Photos
 Get fresh photos of the Martian surface from NASA rovers!
 
 This asset allows you to get photos taken on Mars in recent days.

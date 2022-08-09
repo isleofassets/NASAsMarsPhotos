@@ -11,6 +11,10 @@ Supported platforms: Android/IOS/PC
 
 ![Screenshot](cover-img.jpg)
 
+# Videos
+[![Alt text for your video](screenshot-img-a.jpg)](https://youtu.be/y6Flck_lbuU)
+[![Alt text for your video](screenshot-img-a.jpg)](https://youtu.be/ccT2sMHzWnM)
+
 # Screenshots
 ![Screenshot](screenshot-img-a.jpg)
 ![Screenshot](screenshot-img-b.jpg)

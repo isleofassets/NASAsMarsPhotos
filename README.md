@@ -8,6 +8,5 @@ It receives and extracts links to images from a JSON file, then downloads and di
 Also in the new update, the ability to set the date when the photos were taken has been added.
 
 Supported platforms: Android/IOS/PC
-Documentation: Included
 
 ![Screenshot](cover-img.jpg)
